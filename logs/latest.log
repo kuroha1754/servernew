@@ -1,0 +1,264 @@
+[00:00:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[00:01:47] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2196ms behind, skipping 43 tick(s)
+[00:05:33] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2502ms behind, skipping 50 tick(s)
+[00:06:18] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2433ms behind, skipping 48 tick(s)
+[00:07:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Yvori_Gevura is bleeding...
+[00:07:00] [Server thread/INFO] [tombstone]: The death event of the player Yvori_Gevura was cancelled by another mod
+[00:07:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Yvori_Gevura was shot by Skeleton Soldier
+[00:07:10] [Server thread/INFO] [tombstone]: The last known grave of Yvori_Gevura is at location [name:Last Grave, x:-1706, y:69, z:285] in the dimension 0
+[00:09:30] [Netty Epoll Server IO #4/INFO] [FML]: Client protocol version 2
+[00:09:30] [Netty Epoll Server IO #4/INFO] [FML]: Client attempting to join with 47 mods : minecraft@1.12.2,cannibalism@5.6.3,ptrmodellib@1.0.4,mowziesmobs@1.5.4,gokistats@@version@,randomenchantments@@VERSION@,ironfurnaces@1.3.5,creativecoredummy@1.0.0,creativecore@1.10.0,deconstruction@3.0.4,mobdismemberment@7.0.0,adlods@1.12.2-1.0.7.1,jei@4.15.0.291,reccomplex@1.4.8.1,ivtoolkit@1.3.3-1.12,extrautils2@1.0,techguns_core@1.12.2-1.0,bloodmoon@1.5.3,forgeendertech@1.12.2-4.5.0.0,waystones@4.1.0,xaerominimap@20.5.0,mcp@9.42,securitycraft@v1.8.12.1,libraryex@1.0.12,backpacks16840@3.5.8,FML@8.0.99.99,tombstone@3.7.0,bookshelf@2.3.585,inventorytweaks@1.63+release.109.220f184,foamfixcore@7.7.4,llibrary@1.7.19,magma_monsters@0.3.0,xaerominimap_core@1.12.2-1.0,waila@1.8.26,bonsaitrees@1.1.4,props@2.6.3,foamfix@0.10.8-1.12.2,ichunutil@7.2.1,thedragonlib@1.12.2-5.3.0,forge@14.23.5.2846,codechickenlib@3.2.3.358,twilightforest@3.10.1013,playerrevive@1.0,netherex@2.0.15,eplus@5.0.176,infernalmobs@1.7.6,techguns@2.0.2.0
+[00:09:30] [Netty Epoll Server IO #4/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[00:09:31] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:09:31] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Kirigayaxz[/181.72.37.45:50125] logged in with entity id 321744 at (-128.69157904758544, 73.625, 434.30000001192093)
+[00:09:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kirigayaxz joined the game
+[00:09:31] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Kirigayaxz'/321744, l='world', x=-128.69, y=73.63, z=434.30] connected. Sending ping
+[00:10:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kirigayaxz: Set own game mode to Creative Mode]
+[00:10:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kirigayaxz: Set own game mode to Survival Mode]
+[00:10:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kirigayaxz: Set own game mode to Creative Mode]
+[00:10:42] [Netty Epoll Server IO #5/INFO] [FML]: Client protocol version 2
+[00:10:42] [Netty Epoll Server IO #5/INFO] [FML]: Client attempting to join with 47 mods : minecraft@1.12.2,cannibalism@5.6.3,ptrmodellib@1.0.4,mowziesmobs@1.5.4,gokistats@@version@,randomenchantments@@VERSION@,ironfurnaces@1.3.5,creativecoredummy@1.0.0,creativecore@1.10.0,deconstruction@3.0.4,mobdismemberment@7.0.0,adlods@1.12.2-1.0.7.1,jei@4.15.0.291,reccomplex@1.4.8.1,ivtoolkit@1.3.3-1.12,extrautils2@1.0,techguns_core@1.12.2-1.0,bloodmoon@1.5.3,forgeendertech@1.12.2-4.5.0.0,waystones@4.1.0,xaerominimap@20.5.0,mcp@9.42,securitycraft@v1.8.12.1,libraryex@1.0.12,backpacks16840@3.5.8,FML@8.0.99.99,tombstone@3.7.0,bookshelf@2.3.585,inventorytweaks@1.63+release.109.220f184,foamfixcore@7.7.4,llibrary@1.7.19,magma_monsters@0.3.0,xaerominimap_core@1.12.2-1.0,waila@1.8.26,bonsaitrees@1.1.4,props@2.6.3,foamfix@0.10.8-1.12.2,ichunutil@7.2.1,thedragonlib@1.12.2-5.3.0,forge@14.23.5.2846,codechickenlib@3.2.3.358,twilightforest@3.10.1013,playerrevive@1.0,netherex@2.0.15,eplus@5.0.176,infernalmobs@1.7.6,techguns@2.0.2.0
+[00:10:42] [Netty Epoll Server IO #5/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[00:10:43] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:10:43] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Kuroha1754[/181.168.168.117:58039] logged in with entity id 329845 at (-125.01692215161407, 79.0, 452.9778357711541)
+[00:10:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kuroha1754 joined the game
+[00:10:43] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Kuroha1754'/329845, l='world', x=-125.02, y=79.00, z=452.98] connected. Sending ping
+[00:10:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kirigayaxz: Set own game mode to Survival Mode]
+[00:11:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kirigayaxz: Set own game mode to Creative Mode]
+[00:11:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kirigayaxz: Set own game mode to Survival Mode]
+[00:11:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kirigayaxz: Set own game mode to Creative Mode]
+[00:11:55] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Kuroha1754 lost connection: Disconnected
+[00:11:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kuroha1754 left the game
+[00:11:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kirigayaxz: Set own game mode to Survival Mode]
+[00:18:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kirigayaxz> zzz
+[00:24:59] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [0, 0] in dimension 0 (overworld) while populating chunk [-90, 21], causing cascading worldgen lag.
+[00:24:59] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:25:04] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2424ms behind, skipping 48 tick(s)
+[00:25:04] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Yvori_Gevura moved too quickly! 9.731807735615803,-1.107996876564286,2.097621332140733
+[00:25:49] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2416ms behind, skipping 48 tick(s)
+[00:26:35] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2383ms behind, skipping 47 tick(s)
+[00:26:51] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Yvori_Gevura moved too quickly! 9.27866365126306,1.0,4.073007023845349
+[00:26:52] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-81, 25] in dimension 0 (overworld) while populating chunk [-82, 25], causing cascading worldgen lag.
+[00:26:52] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:26:52] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-82, 26] in dimension 0 (overworld) while populating chunk [-82, 25], causing cascading worldgen lag.
+[00:26:52] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:26:52] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-81, 26] in dimension 0 (overworld) while populating chunk [-82, 25], causing cascading worldgen lag.
+[00:26:52] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:26:55] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Yvori_Gevura moved too quickly! 10.261466526473896,0.0,1.4108901869143438
+[00:26:55] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Kirigayaxz moved too quickly! -0.23997257844422393,0.0,-10.046022160770235
+[00:26:55] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3733ms behind, skipping 74 tick(s)
+[00:27:22] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2321ms behind, skipping 46 tick(s)
+[00:27:22] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Kirigayaxz moved too quickly! -0.22468196749562708,0.0,10.099703486545025
+[00:33:11] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Yvori_Gevura lost connection: Timed out
+[00:33:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Yvori_Gevura left the game
+[00:35:22] [Netty Epoll Server IO #0/ERROR] [FML]: NetworkDispatcher exception
+io.netty.handler.timeout.ReadTimeoutException: null
+[00:35:22] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Yvori_Gevura lost connection: Timed out
+[00:35:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Yvori_Gevura left the game
+[00:36:08] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[00:36:08] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 47 mods : minecraft@1.12.2,cannibalism@5.6.3,ptrmodellib@1.0.4,mowziesmobs@1.5.4,gokistats@@version@,randomenchantments@@VERSION@,ironfurnaces@1.3.5,creativecoredummy@1.0.0,creativecore@1.10.0,deconstruction@3.0.4,mobdismemberment@7.0.0,adlods@1.12.2-1.0.7.1,jei@4.15.0.291,reccomplex@1.4.8.1,ivtoolkit@1.3.3-1.12,extrautils2@1.0,techguns_core@1.12.2-1.0,bloodmoon@1.5.3,forgeendertech@1.12.2-4.5.0.0,waystones@4.1.0,xaerominimap@20.5.0,mcp@9.42,securitycraft@v1.8.12.1,libraryex@1.0.12,backpacks16840@3.5.8,FML@8.0.99.99,tombstone@3.7.0,bookshelf@2.3.585,inventorytweaks@1.63+release.109.220f184,foamfixcore@7.7.4,llibrary@1.7.19,magma_monsters@0.3.0,xaerominimap_core@1.12.2-1.0,waila@1.8.26,bonsaitrees@1.1.4,props@2.6.3,foamfix@0.10.8-1.12.2,ichunutil@7.2.1,thedragonlib@1.12.2-5.3.0,forge@14.23.5.2846,codechickenlib@3.2.3.358,twilightforest@3.10.1013,playerrevive@1.0,netherex@2.0.15,eplus@5.0.176,infernalmobs@1.7.6,techguns@2.0.2.0
+[00:36:08] [Netty Epoll Server IO #2/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[00:36:08] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:36:08] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Yvori_Gevura[/181.47.201.173:62332] logged in with entity id 465761 at (-505.89995755840533, 71.43152384527073, 260.6361805267291)
+[00:36:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Yvori_Gevura joined the game
+[00:36:08] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Yvori_Gevura'/465761, l='world', x=-505.90, y=71.43, z=260.64] connected. Sending ping
+[00:40:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[00:50:53] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[00:50:53] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 47 mods : minecraft@1.12.2,cannibalism@5.6.3,ptrmodellib@1.0.4,mowziesmobs@1.5.4,gokistats@@version@,randomenchantments@@VERSION@,ironfurnaces@1.3.5,creativecoredummy@1.0.0,creativecore@1.10.0,deconstruction@3.0.4,mobdismemberment@7.0.0,adlods@1.12.2-1.0.7.1,jei@4.15.0.291,reccomplex@1.4.8.1,ivtoolkit@1.3.3-1.12,extrautils2@1.0,techguns_core@1.12.2-1.0,bloodmoon@1.5.3,forgeendertech@1.12.2-4.5.0.0,waystones@4.1.0,xaerominimap@20.5.0,mcp@9.42,securitycraft@v1.8.12.1,libraryex@1.0.12,backpacks16840@3.5.8,FML@8.0.99.99,tombstone@3.7.0,bookshelf@2.3.585,inventorytweaks@1.63+release.109.220f184,foamfixcore@7.7.4,llibrary@1.7.19,magma_monsters@0.3.0,xaerominimap_core@1.12.2-1.0,waila@1.8.26,bonsaitrees@1.1.4,props@2.6.3,foamfix@0.10.8-1.12.2,ichunutil@7.2.1,thedragonlib@1.12.2-5.3.0,forge@14.23.5.2846,codechickenlib@3.2.3.358,twilightforest@3.10.1013,playerrevive@1.0,netherex@2.0.15,eplus@5.0.176,infernalmobs@1.7.6,techguns@2.0.2.0
+[00:50:53] [Netty Epoll Server IO #3/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[00:50:53] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:50:53] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Kuroha1754[/181.168.168.117:58668] logged in with entity id 523859 at (-123.48680487217607, 74.0, 450.71156712168687)
+[00:50:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kuroha1754 joined the game
+[00:50:54] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Kuroha1754'/523859, l='world', x=-123.49, y=74.00, z=450.71] connected. Sending ping
+[00:53:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Kirigayaxz moved wrongly!
+[00:54:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kuroha1754: Teleported Kuroha1754 to Kirigayaxz]
+[00:54:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kuroha1754: Teleported Kuroha1754 to -143.5, 71.0, 449.5]
+[00:59:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kuroha1754: Teleported Kuroha1754 to Kirigayaxz]
+[00:59:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kuroha1754: Teleported Kuroha1754 to -143.5, 71.0, 449.5]
+[01:00:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kuroha1754: Teleported Kuroha1754 to Kirigayaxz]
+[01:01:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kuroha1754: Teleported Kuroha1754 to -143.5, 71.0, 449.5]
+[01:04:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Kirigayaxz moved wrongly!
+[01:15:23] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Kuroha1754 lost connection: Disconnected
+[01:15:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kuroha1754 left the game
+[01:15:34] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
+[01:15:34] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 47 mods : minecraft@1.12.2,cannibalism@5.6.3,ptrmodellib@1.0.4,mowziesmobs@1.5.4,gokistats@@version@,randomenchantments@@VERSION@,ironfurnaces@1.3.5,creativecoredummy@1.0.0,creativecore@1.10.0,deconstruction@3.0.4,mobdismemberment@7.0.0,adlods@1.12.2-1.0.7.1,jei@4.15.0.291,reccomplex@1.4.8.1,ivtoolkit@1.3.3-1.12,extrautils2@1.0,techguns_core@1.12.2-1.0,bloodmoon@1.5.3,forgeendertech@1.12.2-4.5.0.0,waystones@4.1.0,xaerominimap@20.5.0,mcp@9.42,securitycraft@v1.8.12.1,libraryex@1.0.12,backpacks16840@3.5.8,FML@8.0.99.99,tombstone@3.7.0,bookshelf@2.3.585,inventorytweaks@1.63+release.109.220f184,foamfixcore@7.7.4,llibrary@1.7.19,magma_monsters@0.3.0,xaerominimap_core@1.12.2-1.0,waila@1.8.26,bonsaitrees@1.1.4,props@2.6.3,foamfix@0.10.8-1.12.2,ichunutil@7.2.1,thedragonlib@1.12.2-5.3.0,forge@14.23.5.2846,codechickenlib@3.2.3.358,twilightforest@3.10.1013,playerrevive@1.0,netherex@2.0.15,eplus@5.0.176,infernalmobs@1.7.6,techguns@2.0.2.0
+[01:15:34] [Netty Epoll Server IO #7/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[01:15:34] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:15:34] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Kuroha1754[/181.168.168.117:59244] logged in with entity id 636372 at (-126.04418682527147, 74.0, 452.2014586156212)
+[01:15:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kuroha1754 joined the game
+[01:15:34] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Kuroha1754'/636372, l='world', x=-126.04, y=74.00, z=452.20] connected. Sending ping
+[01:25:43] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Yvori_Gevura lost connection: Timed out
+[01:25:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Yvori_Gevura left the game
+[01:25:55] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[01:25:55] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 47 mods : minecraft@1.12.2,cannibalism@5.6.3,ptrmodellib@1.0.4,mowziesmobs@1.5.4,gokistats@@version@,randomenchantments@@VERSION@,ironfurnaces@1.3.5,creativecoredummy@1.0.0,creativecore@1.10.0,deconstruction@3.0.4,mobdismemberment@7.0.0,adlods@1.12.2-1.0.7.1,jei@4.15.0.291,reccomplex@1.4.8.1,ivtoolkit@1.3.3-1.12,extrautils2@1.0,techguns_core@1.12.2-1.0,bloodmoon@1.5.3,forgeendertech@1.12.2-4.5.0.0,waystones@4.1.0,xaerominimap@20.5.0,mcp@9.42,securitycraft@v1.8.12.1,libraryex@1.0.12,backpacks16840@3.5.8,FML@8.0.99.99,tombstone@3.7.0,bookshelf@2.3.585,inventorytweaks@1.63+release.109.220f184,foamfixcore@7.7.4,llibrary@1.7.19,magma_monsters@0.3.0,xaerominimap_core@1.12.2-1.0,waila@1.8.26,bonsaitrees@1.1.4,props@2.6.3,foamfix@0.10.8-1.12.2,ichunutil@7.2.1,thedragonlib@1.12.2-5.3.0,forge@14.23.5.2846,codechickenlib@3.2.3.358,twilightforest@3.10.1013,playerrevive@1.0,netherex@2.0.15,eplus@5.0.176,infernalmobs@1.7.6,techguns@2.0.2.0
+[01:25:55] [Netty Epoll Server IO #1/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[01:25:56] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:25:56] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Yvori_Gevura[/181.47.201.173:62380] logged in with entity id 684016 at (-500.5718409021509, 71.0, 253.33398253797378)
+[01:25:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Yvori_Gevura joined the game
+[01:25:56] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Yvori_Gevura'/684016, l='world', x=-500.57, y=71.00, z=253.33] connected. Sending ping
+[01:35:20] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Kirigayaxz moved wrongly!
+[01:45:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kirigayaxz> universal block remover
+[02:00:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[02:07:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kirigayaxz has made the advancement [Local Brewery]
+[02:14:40] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Yvori_Gevura lost connection: Disconnected
+[02:14:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Yvori_Gevura left the game
+[02:14:51] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[02:14:51] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 47 mods : minecraft@1.12.2,cannibalism@5.6.3,ptrmodellib@1.0.4,mowziesmobs@1.5.4,gokistats@@version@,randomenchantments@@VERSION@,ironfurnaces@1.3.5,creativecoredummy@1.0.0,creativecore@1.10.0,deconstruction@3.0.4,mobdismemberment@7.0.0,adlods@1.12.2-1.0.7.1,jei@4.15.0.291,reccomplex@1.4.8.1,ivtoolkit@1.3.3-1.12,extrautils2@1.0,techguns_core@1.12.2-1.0,bloodmoon@1.5.3,forgeendertech@1.12.2-4.5.0.0,waystones@4.1.0,xaerominimap@20.5.0,mcp@9.42,securitycraft@v1.8.12.1,libraryex@1.0.12,backpacks16840@3.5.8,FML@8.0.99.99,tombstone@3.7.0,bookshelf@2.3.585,inventorytweaks@1.63+release.109.220f184,foamfixcore@7.7.4,llibrary@1.7.19,magma_monsters@0.3.0,xaerominimap_core@1.12.2-1.0,waila@1.8.26,bonsaitrees@1.1.4,props@2.6.3,foamfix@0.10.8-1.12.2,ichunutil@7.2.1,thedragonlib@1.12.2-5.3.0,forge@14.23.5.2846,codechickenlib@3.2.3.358,twilightforest@3.10.1013,playerrevive@1.0,netherex@2.0.15,eplus@5.0.176,infernalmobs@1.7.6,techguns@2.0.2.0
+[02:14:51] [Netty Epoll Server IO #3/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[02:14:52] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[02:14:52] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Yvori_Gevura[/181.47.201.173:62412] logged in with entity id 843120 at (-511.30000001192093, 69.0, 266.69999998807907)
+[02:14:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Yvori_Gevura joined the game
+[02:14:52] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Yvori_Gevura'/843120, l='world', x=-511.30, y=69.00, z=266.70] connected. Sending ping
+[02:14:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Yvori_Gevura is bleeding...
+[02:14:57] [Server thread/INFO] [tombstone]: The death event of the player Yvori_Gevura was cancelled by another mod
+[02:15:01] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Yvori_Gevura lost connection: Disconnected
+[02:15:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Yvori_Gevura left the game
+[02:15:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Yvori_Gevura suffocated in a wall
+[02:15:01] [Server thread/INFO] [tombstone]: The last known grave of Yvori_Gevura is at location [name:Last Grave, x:-515, y:70, z:266] in the dimension 0
+[02:15:10] [Netty Epoll Server IO #5/INFO] [FML]: Client protocol version 2
+[02:15:10] [Netty Epoll Server IO #5/INFO] [FML]: Client attempting to join with 47 mods : minecraft@1.12.2,cannibalism@5.6.3,ptrmodellib@1.0.4,mowziesmobs@1.5.4,gokistats@@version@,randomenchantments@@VERSION@,ironfurnaces@1.3.5,creativecoredummy@1.0.0,creativecore@1.10.0,deconstruction@3.0.4,mobdismemberment@7.0.0,adlods@1.12.2-1.0.7.1,jei@4.15.0.291,reccomplex@1.4.8.1,ivtoolkit@1.3.3-1.12,extrautils2@1.0,techguns_core@1.12.2-1.0,bloodmoon@1.5.3,forgeendertech@1.12.2-4.5.0.0,waystones@4.1.0,xaerominimap@20.5.0,mcp@9.42,securitycraft@v1.8.12.1,libraryex@1.0.12,backpacks16840@3.5.8,FML@8.0.99.99,tombstone@3.7.0,bookshelf@2.3.585,inventorytweaks@1.63+release.109.220f184,foamfixcore@7.7.4,llibrary@1.7.19,magma_monsters@0.3.0,xaerominimap_core@1.12.2-1.0,waila@1.8.26,bonsaitrees@1.1.4,props@2.6.3,foamfix@0.10.8-1.12.2,ichunutil@7.2.1,thedragonlib@1.12.2-5.3.0,forge@14.23.5.2846,codechickenlib@3.2.3.358,twilightforest@3.10.1013,playerrevive@1.0,netherex@2.0.15,eplus@5.0.176,infernalmobs@1.7.6,techguns@2.0.2.0
+[02:15:10] [Netty Epoll Server IO #5/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[02:15:11] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[02:15:11] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Yvori_Gevura[/181.47.201.173:62414] logged in with entity id 844209 at (-512.3000000119209, 69.0, 266.5513598102893)
+[02:15:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Yvori_Gevura joined the game
+[02:15:11] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Yvori_Gevura'/844209, l='world', x=-512.30, y=69.00, z=266.55] connected. Sending ping
+[02:15:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kirigayaxz: Teleported Kirigayaxz to Yvori_Gevura]
+[02:15:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kirigayaxz: Teleported Kirigayaxz to Kuroha1754]
+[02:18:12] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@1a26f7fd)
+[02:18:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kirigayaxz has made the advancement [We Need to Go Deeper]
+[02:19:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kirigayaxz has made the advancement [A Terrible Fortress]
+[02:23:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Yvori_Gevura has made the advancement [We Need to Go Deeper]
+[02:23:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kirigayaxz: Teleported Yvori_Gevura to -14.5, 70.0, 196.5]
+[02:24:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Yvori_Gevura has made the advancement [A Terrible Fortress]
+[02:24:42] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Yvori_Gevura lost connection: Timed out
+[02:24:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Yvori_Gevura left the game
+[02:24:54] [Netty Epoll Server IO #6/INFO] [FML]: Client protocol version 2
+[02:24:54] [Netty Epoll Server IO #6/INFO] [FML]: Client attempting to join with 47 mods : minecraft@1.12.2,cannibalism@5.6.3,ptrmodellib@1.0.4,mowziesmobs@1.5.4,gokistats@@version@,randomenchantments@@VERSION@,ironfurnaces@1.3.5,creativecoredummy@1.0.0,creativecore@1.10.0,deconstruction@3.0.4,mobdismemberment@7.0.0,adlods@1.12.2-1.0.7.1,jei@4.15.0.291,reccomplex@1.4.8.1,ivtoolkit@1.3.3-1.12,extrautils2@1.0,techguns_core@1.12.2-1.0,bloodmoon@1.5.3,forgeendertech@1.12.2-4.5.0.0,waystones@4.1.0,xaerominimap@20.5.0,mcp@9.42,securitycraft@v1.8.12.1,libraryex@1.0.12,backpacks16840@3.5.8,FML@8.0.99.99,tombstone@3.7.0,bookshelf@2.3.585,inventorytweaks@1.63+release.109.220f184,foamfixcore@7.7.4,llibrary@1.7.19,magma_monsters@0.3.0,xaerominimap_core@1.12.2-1.0,waila@1.8.26,bonsaitrees@1.1.4,props@2.6.3,foamfix@0.10.8-1.12.2,ichunutil@7.2.1,thedragonlib@1.12.2-5.3.0,forge@14.23.5.2846,codechickenlib@3.2.3.358,twilightforest@3.10.1013,playerrevive@1.0,netherex@2.0.15,eplus@5.0.176,infernalmobs@1.7.6,techguns@2.0.2.0
+[02:24:54] [Netty Epoll Server IO #6/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[02:24:55] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[02:24:55] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Yvori_Gevura[/181.47.201.173:62424] logged in with entity id 881418 at (-8.207890507941038, 67.0, 200.04519086808432)
+[02:24:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Yvori_Gevura joined the game
+[02:24:55] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Yvori_Gevura'/881418, l='world', x=-8.21, y=67.00, z=200.05] connected. Sending ping
+[02:25:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Yvori_Gevura has made the advancement [Into Fire]
+[02:27:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Yvori_Gevura has made the advancement [Spooky Scary Skeleton]
+[02:28:46] [Server thread/INFO] [FML]: Loading dimension 7 (world) (net.minecraft.server.dedicated.DedicatedServer@1a26f7fd)
+[02:29:36] [Server thread/INFO] [FML]: Unloading dimension 7
+[02:32:23] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Yvori_Gevura moved wrongly!
+[02:34:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kirigayaxz: Teleported Yvori_Gevura to -9.5, 113.0, 272.5]
+[02:36:08] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.monster.EntityBlaze from class logictechcorp.netherex.entity.monster.EntityFrost
+[02:38:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kirigayaxz: Teleported Kirigayaxz to Kuroha1754]
+[02:38:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kirigayaxz: Teleported Yvori_Gevura to -1.5, 62.0, 49.5]
+[02:39:30] [Server thread/INFO] [FML]: Unloading dimension -1
+[02:39:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kuroha1754: Teleported Kuroha1754 to Kirigayaxz]
+[02:40:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[02:46:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kirigayaxz has completed the challenge [How Can That Be Worth It?]
+[02:49:27] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Yvori_Gevura lost connection: Timed out
+[02:49:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Yvori_Gevura left the game
+[02:49:37] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
+[02:49:37] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 47 mods : minecraft@1.12.2,cannibalism@5.6.3,ptrmodellib@1.0.4,mowziesmobs@1.5.4,gokistats@@version@,randomenchantments@@VERSION@,ironfurnaces@1.3.5,creativecoredummy@1.0.0,creativecore@1.10.0,deconstruction@3.0.4,mobdismemberment@7.0.0,adlods@1.12.2-1.0.7.1,jei@4.15.0.291,reccomplex@1.4.8.1,ivtoolkit@1.3.3-1.12,extrautils2@1.0,techguns_core@1.12.2-1.0,bloodmoon@1.5.3,forgeendertech@1.12.2-4.5.0.0,waystones@4.1.0,xaerominimap@20.5.0,mcp@9.42,securitycraft@v1.8.12.1,libraryex@1.0.12,backpacks16840@3.5.8,FML@8.0.99.99,tombstone@3.7.0,bookshelf@2.3.585,inventorytweaks@1.63+release.109.220f184,foamfixcore@7.7.4,llibrary@1.7.19,magma_monsters@0.3.0,xaerominimap_core@1.12.2-1.0,waila@1.8.26,bonsaitrees@1.1.4,props@2.6.3,foamfix@0.10.8-1.12.2,ichunutil@7.2.1,thedragonlib@1.12.2-5.3.0,forge@14.23.5.2846,codechickenlib@3.2.3.358,twilightforest@3.10.1013,playerrevive@1.0,netherex@2.0.15,eplus@5.0.176,infernalmobs@1.7.6,techguns@2.0.2.0
+[02:49:37] [Netty Epoll Server IO #7/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[02:49:38] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[02:49:38] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Yvori_Gevura[/181.47.201.173:62446] logged in with entity id 955660 at (-502.4799894978065, 71.0, 256.57250021193306)
+[02:49:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Yvori_Gevura joined the game
+[02:49:38] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Yvori_Gevura'/955660, l='world', x=-502.48, y=71.00, z=256.57] connected. Sending ping
+[02:53:04] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Yvori_Gevura lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Connection reset by peer
+[02:53:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Yvori_Gevura left the game
+[02:53:17] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[02:53:17] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 47 mods : minecraft@1.12.2,cannibalism@5.6.3,ptrmodellib@1.0.4,mowziesmobs@1.5.4,gokistats@@version@,randomenchantments@@VERSION@,ironfurnaces@1.3.5,creativecoredummy@1.0.0,creativecore@1.10.0,deconstruction@3.0.4,mobdismemberment@7.0.0,adlods@1.12.2-1.0.7.1,jei@4.15.0.291,reccomplex@1.4.8.1,ivtoolkit@1.3.3-1.12,extrautils2@1.0,techguns_core@1.12.2-1.0,bloodmoon@1.5.3,forgeendertech@1.12.2-4.5.0.0,waystones@4.1.0,xaerominimap@20.5.0,mcp@9.42,securitycraft@v1.8.12.1,libraryex@1.0.12,backpacks16840@3.5.8,FML@8.0.99.99,tombstone@3.7.0,bookshelf@2.3.585,inventorytweaks@1.63+release.109.220f184,foamfixcore@7.7.4,llibrary@1.7.19,magma_monsters@0.3.0,xaerominimap_core@1.12.2-1.0,waila@1.8.26,bonsaitrees@1.1.4,props@2.6.3,foamfix@0.10.8-1.12.2,ichunutil@7.2.1,thedragonlib@1.12.2-5.3.0,forge@14.23.5.2846,codechickenlib@3.2.3.358,twilightforest@3.10.1013,playerrevive@1.0,netherex@2.0.15,eplus@5.0.176,infernalmobs@1.7.6,techguns@2.0.2.0
+[02:53:35] [Netty Epoll Server IO #0/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[02:53:35] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Yvori_Gevura lost connection: Disconnected
+[02:53:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Yvori_Gevura left the game
+[02:53:58] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Yvori_Gevura lost connection: Disconnected
+[02:53:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Yvori_Gevura left the game
+[02:54:03] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[02:54:03] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 47 mods : minecraft@1.12.2,cannibalism@5.6.3,ptrmodellib@1.0.4,mowziesmobs@1.5.4,gokistats@@version@,randomenchantments@@VERSION@,ironfurnaces@1.3.5,creativecoredummy@1.0.0,creativecore@1.10.0,deconstruction@3.0.4,mobdismemberment@7.0.0,adlods@1.12.2-1.0.7.1,jei@4.15.0.291,reccomplex@1.4.8.1,ivtoolkit@1.3.3-1.12,extrautils2@1.0,techguns_core@1.12.2-1.0,bloodmoon@1.5.3,forgeendertech@1.12.2-4.5.0.0,waystones@4.1.0,xaerominimap@20.5.0,mcp@9.42,securitycraft@v1.8.12.1,libraryex@1.0.12,backpacks16840@3.5.8,FML@8.0.99.99,tombstone@3.7.0,bookshelf@2.3.585,inventorytweaks@1.63+release.109.220f184,foamfixcore@7.7.4,llibrary@1.7.19,magma_monsters@0.3.0,xaerominimap_core@1.12.2-1.0,waila@1.8.26,bonsaitrees@1.1.4,props@2.6.3,foamfix@0.10.8-1.12.2,ichunutil@7.2.1,thedragonlib@1.12.2-5.3.0,forge@14.23.5.2846,codechickenlib@3.2.3.358,twilightforest@3.10.1013,playerrevive@1.0,netherex@2.0.15,eplus@5.0.176,infernalmobs@1.7.6,techguns@2.0.2.0
+[02:54:03] [Netty Epoll Server IO #2/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[02:54:03] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[02:54:03] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Yvori_Gevura[/181.47.201.173:62455] logged in with entity id 967063 at (-501.56681538611423, 71.0, 256.5267685933297)
+[02:54:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Yvori_Gevura joined the game
+[02:54:03] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Yvori_Gevura'/967063, l='world', x=-501.57, y=71.00, z=256.53] connected. Sending ping
+[03:02:39] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 4070ms behind, skipping 81 tick(s)
+[03:02:39] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Yvori_Gevura moved too quickly! -9.837653927278097,2.0,0.7701135679283766
+[03:04:09] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2610ms behind, skipping 52 tick(s)
+[03:05:40] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2379ms behind, skipping 47 tick(s)
+[03:06:25] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2392ms behind, skipping 47 tick(s)
+[03:06:51] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Kirigayaxz lost connection: Disconnected
+[03:06:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kirigayaxz left the game
+[03:07:11] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2438ms behind, skipping 48 tick(s)
+[03:07:56] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2376ms behind, skipping 47 tick(s)
+[03:08:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Yvori_Gevura is bleeding...
+[03:08:25] [Server thread/INFO] [tombstone]: The death event of the player Yvori_Gevura was cancelled by another mod
+[03:08:41] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2382ms behind, skipping 47 tick(s)
+[03:08:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kuroha1754: Teleported Kuroha1754 to Yvori_Gevura]
+[03:09:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Yvori_Gevura is bleeding...
+[03:09:09] [Server thread/INFO] [tombstone]: The death event of the player Yvori_Gevura was cancelled by another mod
+[03:10:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kuroha1754: Teleported Kuroha1754 to -143.5, 71.0, 449.5]
+[03:10:12] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2375ms behind, skipping 47 tick(s)
+[03:10:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kuroha1754: Teleported Kuroha1754 to -143.5, 71.0, 449.5]
+[03:10:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kuroha1754: Teleported Yvori_Gevura to -124.10169601068105, 74.0, 448.88143529062637]
+[03:20:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[03:26:37] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Yvori_Gevura lost connection: Timed out
+[03:26:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Yvori_Gevura left the game
+[03:26:47] [Netty Epoll Server IO #4/INFO] [FML]: Client protocol version 2
+[03:26:47] [Netty Epoll Server IO #4/INFO] [FML]: Client attempting to join with 47 mods : minecraft@1.12.2,cannibalism@5.6.3,ptrmodellib@1.0.4,mowziesmobs@1.5.4,gokistats@@version@,randomenchantments@@VERSION@,ironfurnaces@1.3.5,creativecoredummy@1.0.0,creativecore@1.10.0,deconstruction@3.0.4,mobdismemberment@7.0.0,adlods@1.12.2-1.0.7.1,jei@4.15.0.291,reccomplex@1.4.8.1,ivtoolkit@1.3.3-1.12,extrautils2@1.0,techguns_core@1.12.2-1.0,bloodmoon@1.5.3,forgeendertech@1.12.2-4.5.0.0,waystones@4.1.0,xaerominimap@20.5.0,mcp@9.42,securitycraft@v1.8.12.1,libraryex@1.0.12,backpacks16840@3.5.8,FML@8.0.99.99,tombstone@3.7.0,bookshelf@2.3.585,inventorytweaks@1.63+release.109.220f184,foamfixcore@7.7.4,llibrary@1.7.19,magma_monsters@0.3.0,xaerominimap_core@1.12.2-1.0,waila@1.8.26,bonsaitrees@1.1.4,props@2.6.3,foamfix@0.10.8-1.12.2,ichunutil@7.2.1,thedragonlib@1.12.2-5.3.0,forge@14.23.5.2846,codechickenlib@3.2.3.358,twilightforest@3.10.1013,playerrevive@1.0,netherex@2.0.15,eplus@5.0.176,infernalmobs@1.7.6,techguns@2.0.2.0
+[03:26:47] [Netty Epoll Server IO #4/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[03:26:48] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[03:26:48] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Yvori_Gevura[/181.47.201.173:62489] logged in with entity id 1116874 at (-520.8415324231538, 70.0, 262.103575024305)
+[03:26:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Yvori_Gevura joined the game
+[03:26:48] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Yvori_Gevura'/1116874, l='world', x=-520.84, y=70.00, z=262.10] connected. Sending ping
+[03:29:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Yvori_Gevura moved wrongly!
+[03:35:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Yvori_Gevura moved too quickly! 9.590163946504731,-2.0,2.983314491353383
+[03:37:06] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Yvori_Gevura moved too quickly! -6.133163462111099,0.0,7.902758440911327
+[03:40:17] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Yvori_Gevura lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Connection reset by peer
+[03:40:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Yvori_Gevura left the game
+[03:40:28] [Netty Epoll Server IO #5/INFO] [FML]: Client protocol version 2
+[03:40:29] [Netty Epoll Server IO #5/INFO] [FML]: Client attempting to join with 47 mods : minecraft@1.12.2,cannibalism@5.6.3,ptrmodellib@1.0.4,mowziesmobs@1.5.4,gokistats@@version@,randomenchantments@@VERSION@,ironfurnaces@1.3.5,creativecoredummy@1.0.0,creativecore@1.10.0,deconstruction@3.0.4,mobdismemberment@7.0.0,adlods@1.12.2-1.0.7.1,jei@4.15.0.291,reccomplex@1.4.8.1,ivtoolkit@1.3.3-1.12,extrautils2@1.0,techguns_core@1.12.2-1.0,bloodmoon@1.5.3,forgeendertech@1.12.2-4.5.0.0,waystones@4.1.0,xaerominimap@20.5.0,mcp@9.42,securitycraft@v1.8.12.1,libraryex@1.0.12,backpacks16840@3.5.8,FML@8.0.99.99,tombstone@3.7.0,bookshelf@2.3.585,inventorytweaks@1.63+release.109.220f184,foamfixcore@7.7.4,llibrary@1.7.19,magma_monsters@0.3.0,xaerominimap_core@1.12.2-1.0,waila@1.8.26,bonsaitrees@1.1.4,props@2.6.3,foamfix@0.10.8-1.12.2,ichunutil@7.2.1,thedragonlib@1.12.2-5.3.0,forge@14.23.5.2846,codechickenlib@3.2.3.358,twilightforest@3.10.1013,playerrevive@1.0,netherex@2.0.15,eplus@5.0.176,infernalmobs@1.7.6,techguns@2.0.2.0
+[03:40:29] [Netty Epoll Server IO #5/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[03:40:30] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[03:40:30] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Yvori_Gevura[/181.47.201.173:62500] logged in with entity id 1160300 at (-266.1279746106253, 49.0, 305.8644380167983)
+[03:40:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Yvori_Gevura joined the game
+[03:40:30] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Yvori_Gevura'/1160300, l='world', x=-266.13, y=49.00, z=305.86] connected. Sending ping
+[04:00:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[04:11:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kuroha1754: Teleported Kuroha1754 to Yvori_Gevura]
+[04:15:53] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Yvori_Gevura moved too quickly! 3.391730874948621,0.0,-9.432608127207573
+[04:16:11] [Server thread/INFO] [FML]: Loading dimension 7 (world) (net.minecraft.server.dedicated.DedicatedServer@1a26f7fd)
+[04:16:50] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Yvori_Gevura moved too quickly! 5.270783650312637,1.4704652672425453,8.692794491712391
+[04:16:56] [Server thread/INFO] [FML]: Unloading dimension 7
+[04:19:34] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Yvori_Gevura moved too quickly! 1.4967934210269505,-4.766367993957516,8.842864517217095
+[04:26:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kuroha1754: Teleported Kuroha1754 to Yvori_Gevura]
+[04:29:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kuroha1754: Teleported Kuroha1754 to -143.5, 71.0, 449.5]
+[04:29:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kuroha1754: Teleported Kuroha1754 to -143.5, 71.0, 449.5]
+[04:29:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kuroha1754: Teleported Yvori_Gevura to -128.60681467226206, 74.0, 449.7566524532319]
+[04:40:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[04:44:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Yvori_Gevura has made the advancement [Grow a Bonsai Tree]
+[04:49:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kuroha1754: Teleported Kuroha1754 to -143.5, 71.0, 449.5]
+[05:06:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kuroha1754 has made the advancement [Sweet dreams]
+[05:16:50] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Yvori_Gevura moved too quickly! -2.251341269513773,3.0,-9.309832444766414
+[05:17:13] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Yvori_Gevura moved too quickly! -8.819791653839957,-0.07840000152587834,4.94914544509686
+[05:19:08] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Yvori_Gevura lost connection: Timed out
+[05:19:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Yvori_Gevura left the game
+[05:20:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[05:23:29] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Kuroha1754 lost connection: Disconnected
+[05:23:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kuroha1754 left the game
+[06:00:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[06:40:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[07:20:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[08:00:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[08:40:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[09:20:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[10:00:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[10:40:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[11:20:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[12:00:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[12:40:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[13:20:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[14:00:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[14:14:19] [Netty Epoll Server IO #6/INFO] [FML]: Client protocol version 2
+[14:14:19] [Netty Epoll Server IO #6/INFO] [FML]: Client attempting to join with 47 mods : minecraft@1.12.2,cannibalism@5.6.3,ptrmodellib@1.0.4,mowziesmobs@1.5.4,gokistats@@version@,randomenchantments@@VERSION@,ironfurnaces@1.3.5,creativecoredummy@1.0.0,creativecore@1.10.0,deconstruction@3.0.4,mobdismemberment@7.0.0,adlods@1.12.2-1.0.7.1,jei@4.15.0.291,reccomplex@1.4.8.1,ivtoolkit@1.3.3-1.12,extrautils2@1.0,techguns_core@1.12.2-1.0,bloodmoon@1.5.3,forgeendertech@1.12.2-4.5.0.0,waystones@4.1.0,xaerominimap@20.5.0,mcp@9.42,securitycraft@v1.8.12.1,libraryex@1.0.12,backpacks16840@3.5.8,FML@8.0.99.99,tombstone@3.7.0,bookshelf@2.3.585,inventorytweaks@1.63+release.109.220f184,foamfixcore@7.7.4,llibrary@1.7.19,magma_monsters@0.3.0,xaerominimap_core@1.12.2-1.0,waila@1.8.26,bonsaitrees@1.1.4,props@2.6.3,foamfix@0.10.8-1.12.2,ichunutil@7.2.1,thedragonlib@1.12.2-5.3.0,forge@14.23.5.2846,codechickenlib@3.2.3.358,twilightforest@3.10.1013,playerrevive@1.0,netherex@2.0.15,eplus@5.0.176,infernalmobs@1.7.6,techguns@2.0.2.0
+[14:14:19] [Netty Epoll Server IO #6/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[14:14:20] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[14:14:20] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Kuroha1754[/181.168.168.117:61558] logged in with entity id 1552900 at (-121.02504545289592, 68.18500000238419, 452.8281575085381)
+[14:14:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kuroha1754 joined the game
+[14:14:20] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Kuroha1754'/1552900, l='world', x=-121.03, y=68.19, z=452.83] connected. Sending ping
+[14:21:28] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Kuroha1754 lost connection: Disconnected
+[14:21:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kuroha1754 left the game
